@@ -1,0 +1,18 @@
+.map-btn {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: orangered;
+  z-index: 1000;
+  border-radius: 30px;
+}
+
+.map-btn:hover {
+  transform: translateY(-2px);
+}
+
+.map-btn:active {
+  transform: translateY(-1px);
+}

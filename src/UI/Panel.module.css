@@ -1,0 +1,18 @@
+.panel {
+  width: 80%;
+  position: absolute;
+  top: 22vh;
+  left: 10%;
+  background-color: white;
+  border-radius: 10px;
+  z-index: 500;
+  padding: 3rem;
+}
+
+@media (min-width: 768px) {
+  .panel {
+    display: flex;
+    top: 30vh;
+    justify-content: space-between;
+  }
+}
