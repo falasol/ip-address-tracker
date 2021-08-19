@@ -1,7 +1,6 @@
 import React from "react";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import styles from "./Map.module.css";
 
 class Map extends React.Component {
   constructor(props) {
