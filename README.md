@@ -16,5 +16,5 @@ https://elated-jones-9346bf.netlify.app/
 - HTML
 - CSS, 使用 React Module CSS 並有實作 RWD
 - JS, 使用 React 框架進行互動處裡，並使用 Axios 實作 API 串接
-- 使用 [ipify] (https://www.ipify.org/) 取得 ip 資料
-- 使用 [leaflet] (https://leafletjs.com/) 建立地圖
+- 使用 [ipify](https://www.ipify.org/) 取得 ip 資料
+- 使用 [leaflet](https://leafletjs.com/) 建立地圖
